@@ -1,4 +1,4 @@
 # thalamus-segmentation
 Stuff related to my thalamic segmentation project.
 
-Also my first GitHub page so right now I'm just testing
+Right now, the only file is a PVC script that erodes VOIs to <50% of their original size. More code may follow later. 
